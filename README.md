@@ -71,6 +71,7 @@
 
 - Ability to work day-to-day in production environment
 
+  - [Linux Journey](https://linuxjourney.com/)
   - [A day in the Life of a Linux Administrator | Edureka](https://www.youtube.com/watch?v=zvoBWbQ6a7U)
 
 - Container security, solutions
