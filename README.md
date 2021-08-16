@@ -61,9 +61,11 @@
 
 ## Learning Path
 
-> My learning path for Vulnerability Management
+<details>
 
-- Ability
+<summary>My learning path for Vulnerability Management</summary>
+
+- Ability to work day-to-day in production environment
 
   - [A day in the Life of a Linux Administrator | Edureka](https://www.youtube.com/watch?v=zvoBWbQ6a7U)
 
@@ -86,3 +88,4 @@
   - [Nessus - Scanning and Vulnerability Management](https://www.tenable.com/products/nessus)
 
   - [Acunetix](https://www.acunetix.com/product/standard/)
+  </details>
