@@ -65,6 +65,12 @@
 
 <summary>My learning path for Vulnerability Management</summary>
 
+- DevOps things require
+    
+    - [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://colonline.udemy.com/course/docker-mastery)
+    
+    - [Ansible for the Beginners course for DevOps Engineers and System Admins - Udemy](https://www.udemy.com/course/valaxy-ansible/)
+    
 - Cloud Certification
 
   - [AWS Certified Cloud Practitioner From Scratch 2020](https://www.udemy.com/course/aws-certified-cloud-practitioner-exam-preparation-course/)
@@ -79,8 +85,6 @@
   - [The Docker Rodeo - TryHackMe](https://tryhackme.com/room/dockerrodeo)
 
   - [Docker Container Security - Docker](https://www.youtube.com/watch?v=E_0vxpL_lxM)
-
-  - [Ansible for the Beginners course for DevOps Engineers and System Admins - Udemy](https://www.udemy.com/course/valaxy-ansible/)
 
   - [How Twistlock Secures the Full Application Lifecycle - Prisma Cloud](https://www.youtube.com/watch?v=KunpU9urBaA)
 
