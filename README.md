@@ -65,6 +65,10 @@
 
 <summary>My learning path for Vulnerability Management</summary>
 
+- Cloud Certification
+
+  - [AWS Certified Cloud Practitioner From Scratch 2020](https://www.udemy.com/course/aws-certified-cloud-practitioner-exam-preparation-course/)
+
 - Ability to work day-to-day in production environment
 
   - [A day in the Life of a Linux Administrator | Edureka](https://www.youtube.com/watch?v=zvoBWbQ6a7U)
@@ -81,6 +85,10 @@
 
   - [Container Security with Twistlock - Docker Pune](https://www.youtube.com/watch?v=e8fehSnTj-s)
 
+  - [Webinar: Trivy Open Source Scanner for Container Images – Just Download and Run! - CNCF](https://www.youtube.com/watch?v=XnYxX9uueoQ)
+
+  - [Docker Image Vulnerabilities & Trivy Image Scanning Demo | K21academy](https://www.youtube.com/watch?v=vYU4H9NP4FY)
+
   - More will be added soon...
 
 - Scanning solutions
@@ -89,3 +97,5 @@
 
   - [Acunetix](https://www.acunetix.com/product/standard/)
   </details>
+
+<br/>
