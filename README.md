@@ -15,6 +15,13 @@
     <img src="https://img.shields.io/badge/rudra0x01-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="rudra0x01" />
 </a>
 
+<a target="_blank" href="https://rudra0x01.xyz" target="_blank">
+    <img alt="Blog" src="https://img.shields.io/badge/Website-4285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a target="_blank" href="https://blog.rudra0x01.xyz/" target="_blank">
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-FD8308.svg?&style=for-the-badge&logo=micro.blog&logoColor=white" />
+</a>
+
 <br />
 
 ## I am...
@@ -23,6 +30,8 @@
 - 👨‍💻 Security engineer at **[Sheba Platform Ltd.](https://sheba.xyz/)**
 
 - <img src="https://platform.synack.com/favicon.png" height="17px" alt="Synack Red Team" /> Red Team Researcher at **[Synack](https://synack.com/)**
+
+- 🐧 Linux fan!
 
 ## Languages and Tools
 
@@ -49,3 +58,31 @@
 - Version Control:
 
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## Learning Path
+
+> My learning path for Vulnerability Management
+
+- Ability
+
+  - [A day in the Life of a Linux Administrator | Edureka](https://www.youtube.com/watch?v=zvoBWbQ6a7U)
+
+- Container security, solutions
+
+  - [The Docker Rodeo - TryHackMe](https://tryhackme.com/room/dockerrodeo)
+
+  - [Docker Container Security - Docker](https://www.youtube.com/watch?v=E_0vxpL_lxM)
+
+  - [Ansible for the Beginners course for DevOps Engineers and System Admins - Udemy](https://www.udemy.com/course/valaxy-ansible/)
+
+  - [How Twistlock Secures the Full Application Lifecycle - Prisma Cloud](https://www.youtube.com/watch?v=KunpU9urBaA)
+
+  - [Container Security with Twistlock - Docker Pune](https://www.youtube.com/watch?v=e8fehSnTj-s)
+
+  - More will be added soon...
+
+- Scanning solutions
+
+  - [Nessus - Scanning and Vulnerability Management](https://www.tenable.com/products/nessus)
+
+  - [Acunetix](https://www.acunetix.com/product/standard/)
