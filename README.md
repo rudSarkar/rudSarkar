@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Rudra 👋 👨‍💻</h2>
-<h3 align="center">A undergraduate computer science student, security engineer, Synack red team member and life-long learner</h3>
+<h3 align="center">A undergraduate computer science student, security engineer, Red Team Researcher and life-long learner</h3>
 
 <br/>
 
@@ -22,7 +22,7 @@
 - 🎓 Undergraduate student at [Green Univeristy of Bangladesh](https://green.edu.bd/)
 - 👨‍💻 Security engineer at **[Sheba Platform Ltd.](https://sheba.xyz/)**
 
-- <img src="https://platform.synack.com/favicon.png" height="17px" alt="Synack Red Team" /> Red Team member at **[Synack](https://synack.com/)**
+- <img src="https://platform.synack.com/favicon.png" height="17px" alt="Synack Red Team" /> Red Team Researcher at **[Synack](https://synack.com/)**
 
 ## Languages and Tools
 
@@ -41,6 +41,10 @@
 - DevOps tool:
 
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+
+- Environment:
+
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
 - Version Control:
 
