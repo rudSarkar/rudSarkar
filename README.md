@@ -81,7 +81,9 @@
   - [A day in the Life of a Linux Administrator | Edureka](https://www.youtube.com/watch?v=zvoBWbQ6a7U)
 
 - Container security, solutions
-
+  
+  - [The Great Escape - TryHackMe](https://tryhackme.com/room/thegreatescape)
+    
   - [The Docker Rodeo - TryHackMe](https://tryhackme.com/room/dockerrodeo)
 
   - [Docker Container Security - Docker](https://www.youtube.com/watch?v=E_0vxpL_lxM)
