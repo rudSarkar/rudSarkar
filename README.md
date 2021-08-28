@@ -1,5 +1,5 @@
-<h2 align="center">Hi, I'm Rudra 👋 👨‍💻</h2>
-<h3 align="center">A undergraduate computer science student, security engineer, Red Team Researcher and life-long learner</h3>
+<h2>Hi, I'm Rudra 👋 👨‍💻</h2>
+<h3>A undergraduate computer science student, security engineer, Red Team Researcher and life-long learner</h3>
 
 <a href="https://twitter.com/rudr4_sarkar" target="blank">
     <img src="https://img.shields.io/badge/-@rudr4_sarkar-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white" alt=""/>
