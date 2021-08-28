@@ -1,25 +1,23 @@
 <h2 align="center">Hi, I'm Rudra 👋 👨‍💻</h2>
 <h3 align="center">A undergraduate computer science student, security engineer, Red Team Researcher and life-long learner</h3>
 
-<br/>
-
 <a href="https://twitter.com/rudr4_sarkar" target="blank">
-    <img src="https://img.shields.io/badge/rudr4_sarkar-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt=""/>
+    <img src="https://img.shields.io/badge/-@rudr4_sarkar-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white" alt=""/>
 </a>
 
 <a href="https://www.linkedin.com/in/rudr4-sarkar/" target="blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rudr4-sarkar"/>
+    <img src="https://img.shields.io/badge/-rudr4sarkar-blue?style=flat&logo=Linkedin&logoColor=white" alt="rudr4-sarkar"/>
 </a>
 
 <a href="https://instagram.com/rudra0x01" target="blank">
-    <img src="https://img.shields.io/badge/rudra0x01-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="rudra0x01" />
+    <img src="https://img.shields.io/badge/-@rudra0x01-fb3958?style=flat&logo=instagram&logoColor=white" alt="rudra0x01" />
 </a>
 
 <a target="_blank" href="https://rudra0x01.xyz" target="_blank">
-    <img alt="Blog" src="https://img.shields.io/badge/Website-4285F4.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img alt="Blog" src="https://img.shields.io/badge/-website-4285F4?style=flat&logo=google-chrome&logoColor=white" />
 </a>
 <a target="_blank" href="https://blog.rudra0x01.xyz/" target="_blank">
-    <img alt="Blog" src="https://img.shields.io/badge/Blog-FD8308.svg?&style=for-the-badge&logo=micro.blog&logoColor=white" />
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-FD8308?&style=flat&logo=micro.blog&logoColor=white" />
 </a>
 
 <br />
