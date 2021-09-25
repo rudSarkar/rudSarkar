@@ -83,6 +83,8 @@
   - [The Great Escape - TryHackMe](https://tryhackme.com/room/thegreatescape)
     
   - [The Docker Rodeo - TryHackMe](https://tryhackme.com/room/dockerrodeo)
+    
+  - [PalsForLife - TryHackMe](https://tryhackme.com/room/palsforlife)
 
   - [Docker Container Security - Docker](https://www.youtube.com/watch?v=E_0vxpL_lxM)
 
