@@ -61,7 +61,7 @@
 
 <details>
 
-<summary>My learning path for Vulnerability Management</summary>
+<summary>Vulnerability Management</summary>
 
 - DevOps things require
     
