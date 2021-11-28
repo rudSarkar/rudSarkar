@@ -59,7 +59,7 @@
 
 ## Learning Path
 
-<details open>
+<details>
 
 <summary>My learning path for Vulnerability Management</summary>
 
