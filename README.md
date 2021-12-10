@@ -87,6 +87,8 @@
   - [PalsForLife - TryHackMe](https://tryhackme.com/room/palsforlife)
 
   - [Docker Container Security - Docker](https://www.youtube.com/watch?v=E_0vxpL_lxM)
+    
+  - [How I Learned Docker Security the Hard Way (So You Don’t Have To)](https://www.youtube.com/watch?v=C343TPOpTzU)
 
   - [How Twistlock Secures the Full Application Lifecycle - Prisma Cloud](https://www.youtube.com/watch?v=KunpU9urBaA)
 
