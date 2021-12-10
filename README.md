@@ -91,6 +91,8 @@
   - [How I Learned Docker Security the Hard Way (So You Don’t Have To)](https://www.youtube.com/watch?v=C343TPOpTzU)
     
   - [Container Security: Container Vulnerability Scanning with Snyk](https://www.youtube.com/watch?v=AYO4AFyDfGY)
+    
+  - [Direct Dockerfile Container Image Scanning now available from Synk](https://www.youtube.com/watch?v=dH8lVX2OLW0)
 
   - [How Twistlock Secures the Full Application Lifecycle - Prisma Cloud](https://www.youtube.com/watch?v=KunpU9urBaA)
 
