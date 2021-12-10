@@ -100,10 +100,14 @@
 
   - [Webinar: Trivy Open Source Scanner for Container Images – Just Download and Run! - CNCF](https://www.youtube.com/watch?v=XnYxX9uueoQ)
 
-  - [Docker Image Vulnerabilities & Trivy Image Scanning Demo | K21academy](https://www.youtube.com/watch?v=vYU4H9NP4FY)
+  - [Docker Image Vulnerabilities & Trivy Image Scanning Demo | K21academy](https://k21academy.com/docker-kubernetes/docker-image-vulnerabilities/)
 
   - More will be added soon...
 
+- Repository
+    
+    - [Docker Scan Snyk Github CI/CD](https://github.com/ericsmalling/docker-scan)
+    
 - Scanning solutions
 
   - [Nessus - Scanning and Vulnerability Management](https://www.tenable.com/products/nessus)
