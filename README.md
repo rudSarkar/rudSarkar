@@ -123,5 +123,5 @@
 <br/>
 
 <center>
-    <img src="https://my-spotify-playing.herokuapp.com/currently_playing"></img>
+    <img src="https://my-spotify-playing.herokuapp.com/currently_playing?"></img>
 </center>
