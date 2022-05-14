@@ -30,9 +30,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/TECH-SAVVY-GUY/csv2pdf/issues/1) in [TECH-SAVVY-GUY/csv2pdf](https://github.com/TECH-SAVVY-GUY/csv2pdf)
-2. ❗️ Opened issue [#8](https://github.com/kabir0x23/100DaysOfHacking/issues/8) in [kabir0x23/100DaysOfHacking](https://github.com/kabir0x23/100DaysOfHacking)
-3. 🗣 Commented on [#1](https://github.com/Huntinex/rauton/issues/1) in [Huntinex/rauton](https://github.com/Huntinex/rauton)
+1. 💪 Opened PR [#5559](https://github.com/education/GitHubGraduation-2022/pull/5559) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+2. ❗️ Opened issue [#1](https://github.com/TECH-SAVVY-GUY/csv2pdf/issues/1) in [TECH-SAVVY-GUY/csv2pdf](https://github.com/TECH-SAVVY-GUY/csv2pdf)
+3. ❗️ Opened issue [#8](https://github.com/kabir0x23/100DaysOfHacking/issues/8) in [kabir0x23/100DaysOfHacking](https://github.com/kabir0x23/100DaysOfHacking)
 4. 🗣 Commented on [#1](https://github.com/Huntinex/rauton/issues/1) in [Huntinex/rauton](https://github.com/Huntinex/rauton)
 5. 🗣 Commented on [#1](https://github.com/Huntinex/rauton/issues/1) in [Huntinex/rauton](https://github.com/Huntinex/rauton)
 <!--END_SECTION:activity-->
