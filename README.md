@@ -30,11 +30,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/TECH-SAVVY-GUY/csv2pdf/issues/1) in [TECH-SAVVY-GUY/csv2pdf](https://github.com/TECH-SAVVY-GUY/csv2pdf)
-2. 🗣 Commented on [#1](https://github.com/TECH-SAVVY-GUY/csv2pdf/issues/1) in [TECH-SAVVY-GUY/csv2pdf](https://github.com/TECH-SAVVY-GUY/csv2pdf)
-3. 💪 Opened PR [#5559](https://github.com/education/GitHubGraduation-2022/pull/5559) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
-4. ❗️ Opened issue [#1](https://github.com/TECH-SAVVY-GUY/csv2pdf/issues/1) in [TECH-SAVVY-GUY/csv2pdf](https://github.com/TECH-SAVVY-GUY/csv2pdf)
-5. ❗️ Opened issue [#8](https://github.com/kabir0x23/100DaysOfHacking/issues/8) in [kabir0x23/100DaysOfHacking](https://github.com/kabir0x23/100DaysOfHacking)
+1. 🎉 Merged PR [#1](https://github.com/rudSarkar/gtester/pull/1) in [rudSarkar/gtester](https://github.com/rudSarkar/gtester)
+2. 💪 Opened PR [#1](https://github.com/rudSarkar/gtester/pull/1) in [rudSarkar/gtester](https://github.com/rudSarkar/gtester)
+3. ❗️ Closed issue [#1](https://github.com/TECH-SAVVY-GUY/csv2pdf/issues/1) in [TECH-SAVVY-GUY/csv2pdf](https://github.com/TECH-SAVVY-GUY/csv2pdf)
+4. 🗣 Commented on [#1](https://github.com/TECH-SAVVY-GUY/csv2pdf/issues/1) in [TECH-SAVVY-GUY/csv2pdf](https://github.com/TECH-SAVVY-GUY/csv2pdf)
+5. 💪 Opened PR [#5559](https://github.com/education/GitHubGraduation-2022/pull/5559) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
 <!--END_SECTION:activity-->
 
 ## Learning Path
