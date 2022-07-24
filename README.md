@@ -95,6 +95,8 @@
   - [Nessus - Scanning and Vulnerability Management](https://www.tenable.com/products/nessus)
 
   - [Acunetix](https://www.acunetix.com/product/standard/)
+
+  - [OpenVAS](https://www.openvas.org/)
   </details>
 
 <br/>
