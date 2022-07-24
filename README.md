@@ -51,7 +51,7 @@
     
 - Cloud Certification
 
-  - [[NEW] Ultimate AWS Certified Cloud Practitioner - 2021 by Stephane Maarek ](https://colonline.udemy.com/course/aws-certified-cloud-practitioner-new/)
+  - [[NEW] Ultimate AWS Certified Cloud Practitioner - 2021 by Stephane Maarek ](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
 
 - Ability to work day-to-day in production environment
 
