@@ -30,11 +30,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/koolkishan/chat-app-react-nodejs/issues/1) in [koolkishan/chat-app-react-nodejs](https://github.com/koolkishan/chat-app-react-nodejs)
-2. 🎉 Merged PR [#1](https://github.com/rudSarkar/gtester/pull/1) in [rudSarkar/gtester](https://github.com/rudSarkar/gtester)
-3. 💪 Opened PR [#1](https://github.com/rudSarkar/gtester/pull/1) in [rudSarkar/gtester](https://github.com/rudSarkar/gtester)
-4. ❗️ Closed issue [#1](https://github.com/TECH-SAVVY-GUY/csv2pdf/issues/1) in [TECH-SAVVY-GUY/csv2pdf](https://github.com/TECH-SAVVY-GUY/csv2pdf)
-5. 🗣 Commented on [#1](https://github.com/TECH-SAVVY-GUY/csv2pdf/issues/1) in [TECH-SAVVY-GUY/csv2pdf](https://github.com/TECH-SAVVY-GUY/csv2pdf)
+1. 🎉 Merged PR [#2](https://github.com/rudSarkar/rudSarkar/pull/2) in [rudSarkar/rudSarkar](https://github.com/rudSarkar/rudSarkar)
+2. 💪 Opened PR [#2](https://github.com/rudSarkar/rudSarkar/pull/2) in [rudSarkar/rudSarkar](https://github.com/rudSarkar/rudSarkar)
+3. ❌ Closed PR [#1](https://github.com/rudSarkar/rudSarkar/pull/1) in [rudSarkar/rudSarkar](https://github.com/rudSarkar/rudSarkar)
+4. 💪 Opened PR [#1](https://github.com/rudSarkar/rudSarkar/pull/1) in [rudSarkar/rudSarkar](https://github.com/rudSarkar/rudSarkar)
+5. 🗣 Commented on [#1](https://github.com/koolkishan/chat-app-react-nodejs/issues/1) in [koolkishan/chat-app-react-nodejs](https://github.com/koolkishan/chat-app-react-nodejs)
 <!--END_SECTION:activity-->
 
 ## Learning Path
