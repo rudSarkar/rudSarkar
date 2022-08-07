@@ -30,11 +30,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/rudSarkar/rudSarkar/pull/2) in [rudSarkar/rudSarkar](https://github.com/rudSarkar/rudSarkar)
-2. 💪 Opened PR [#2](https://github.com/rudSarkar/rudSarkar/pull/2) in [rudSarkar/rudSarkar](https://github.com/rudSarkar/rudSarkar)
-3. ❌ Closed PR [#1](https://github.com/rudSarkar/rudSarkar/pull/1) in [rudSarkar/rudSarkar](https://github.com/rudSarkar/rudSarkar)
-4. 💪 Opened PR [#1](https://github.com/rudSarkar/rudSarkar/pull/1) in [rudSarkar/rudSarkar](https://github.com/rudSarkar/rudSarkar)
-5. 🗣 Commented on [#1](https://github.com/koolkishan/chat-app-react-nodejs/issues/1) in [koolkishan/chat-app-react-nodejs](https://github.com/koolkishan/chat-app-react-nodejs)
+1. ❗️ Closed issue [#123](https://github.com/OfficialFindCoder/FindCoder-Reporting-Bugs/issues/123) in [OfficialFindCoder/FindCoder-Reporting-Bugs](https://github.com/OfficialFindCoder/FindCoder-Reporting-Bugs)
+2. 🗣 Commented on [#123](https://github.com/OfficialFindCoder/FindCoder-Reporting-Bugs/issues/123) in [OfficialFindCoder/FindCoder-Reporting-Bugs](https://github.com/OfficialFindCoder/FindCoder-Reporting-Bugs)
+3. ❗️ Opened issue [#123](https://github.com/OfficialFindCoder/FindCoder-Reporting-Bugs/issues/123) in [OfficialFindCoder/FindCoder-Reporting-Bugs](https://github.com/OfficialFindCoder/FindCoder-Reporting-Bugs)
+4. ❗️ Closed issue [#112](https://github.com/OfficialFindCoder/FindCoder-Reporting-Bugs/issues/112) in [OfficialFindCoder/FindCoder-Reporting-Bugs](https://github.com/OfficialFindCoder/FindCoder-Reporting-Bugs)
+5. 🗣 Commented on [#112](https://github.com/OfficialFindCoder/FindCoder-Reporting-Bugs/issues/112) in [OfficialFindCoder/FindCoder-Reporting-Bugs](https://github.com/OfficialFindCoder/FindCoder-Reporting-Bugs)
 <!--END_SECTION:activity-->
 
 ## Learning Path
