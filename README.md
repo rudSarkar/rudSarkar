@@ -30,11 +30,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/koolkishan/chat-app-react-nodejs/issues/1) in [koolkishan/chat-app-react-nodejs](https://github.com/koolkishan/chat-app-react-nodejs)
-2. 🗣 Commented on [#5](https://github.com/D3Ext/AORT/issues/5) in [D3Ext/AORT](https://github.com/D3Ext/AORT)
-3. 🗣 Commented on [#4](https://github.com/D3Ext/AORT/issues/4) in [D3Ext/AORT](https://github.com/D3Ext/AORT)
-4. ❗️ Opened issue [#1](https://github.com/0xh7ml/my_plugin/issues/1) in [0xh7ml/my_plugin](https://github.com/0xh7ml/my_plugin)
-5. ❌ Closed PR [#1](https://github.com/rudSarkar/T1tl3/pull/1) in [rudSarkar/T1tl3](https://github.com/rudSarkar/T1tl3)
+1. 🗣 Commented on [#21](https://github.com/s3c-krd/s3cXSSer/issues/21) in [s3c-krd/s3cXSSer](https://github.com/s3c-krd/s3cXSSer)
+2. 🗣 Commented on [#1](https://github.com/koolkishan/chat-app-react-nodejs/issues/1) in [koolkishan/chat-app-react-nodejs](https://github.com/koolkishan/chat-app-react-nodejs)
+3. 🗣 Commented on [#5](https://github.com/D3Ext/AORT/issues/5) in [D3Ext/AORT](https://github.com/D3Ext/AORT)
+4. 🗣 Commented on [#4](https://github.com/D3Ext/AORT/issues/4) in [D3Ext/AORT](https://github.com/D3Ext/AORT)
+5. ❗️ Opened issue [#1](https://github.com/0xh7ml/my_plugin/issues/1) in [0xh7ml/my_plugin](https://github.com/0xh7ml/my_plugin)
 <!--END_SECTION:activity-->
 
 ## Learning Path
