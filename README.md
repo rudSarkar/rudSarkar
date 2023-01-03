@@ -22,7 +22,7 @@
 ## I am...
 
 - 🎓 Undergraduate student at [Green Univeristy of Bangladesh](https://green.edu.bd/)
-- 👨‍💻 Security engineer at **[Sheba Platform Ltd.](https://sheba.xyz/)**
+- 👨‍💻 Ex. Security engineer at **[Sheba Platform Ltd.](https://sheba.xyz/)**
 
 - <img src="https://platform.synack.com/favicon.png" height="17px" alt="Synack Red Team" /> Red Team Researcher at **[Synack](https://synack.com/)**
 
