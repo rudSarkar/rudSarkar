@@ -30,11 +30,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#115](https://github.com/lovvskillz/python-discord-webhook/issues/115) in [lovvskillz/python-discord-webhook](https://github.com/lovvskillz/python-discord-webhook)
-2. 💪 Opened PR [#2](https://github.com/imthaghost/merryGoRound/pull/2) in [imthaghost/merryGoRound](https://github.com/imthaghost/merryGoRound)
-3. 🗣 Commented on [#21](https://github.com/s3c-krd/s3cXSSer/issues/21) in [s3c-krd/s3cXSSer](https://github.com/s3c-krd/s3cXSSer)
-4. 🗣 Commented on [#1](https://github.com/koolkishan/chat-app-react-nodejs/issues/1) in [koolkishan/chat-app-react-nodejs](https://github.com/koolkishan/chat-app-react-nodejs)
-5. 🗣 Commented on [#5](https://github.com/D3Ext/AORT/issues/5) in [D3Ext/AORT](https://github.com/D3Ext/AORT)
+1. ❌ Closed PR [#2](https://github.com/imthaghost/merryGoRound/pull/2) in [imthaghost/merryGoRound](https://github.com/imthaghost/merryGoRound)
+2. 🗣 Commented on [#2](https://github.com/imthaghost/merryGoRound/issues/2) in [imthaghost/merryGoRound](https://github.com/imthaghost/merryGoRound)
+3. 💪 Opened PR [#1](https://github.com/xcapri/scopegen/pull/1) in [xcapri/scopegen](https://github.com/xcapri/scopegen)
+4. ❗️ Opened issue [#115](https://github.com/lovvskillz/python-discord-webhook/issues/115) in [lovvskillz/python-discord-webhook](https://github.com/lovvskillz/python-discord-webhook)
+5. 💪 Opened PR [#2](https://github.com/imthaghost/merryGoRound/pull/2) in [imthaghost/merryGoRound](https://github.com/imthaghost/merryGoRound)
 <!--END_SECTION:activity-->
 
 ## Learning Path
