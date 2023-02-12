@@ -30,11 +30,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/imthaghost/merryGoRound/pull/2) in [imthaghost/merryGoRound](https://github.com/imthaghost/merryGoRound)
-2. 🗣 Commented on [#2](https://github.com/imthaghost/merryGoRound/issues/2) in [imthaghost/merryGoRound](https://github.com/imthaghost/merryGoRound)
-3. 💪 Opened PR [#1](https://github.com/xcapri/scopegen/pull/1) in [xcapri/scopegen](https://github.com/xcapri/scopegen)
-4. ❗️ Opened issue [#115](https://github.com/lovvskillz/python-discord-webhook/issues/115) in [lovvskillz/python-discord-webhook](https://github.com/lovvskillz/python-discord-webhook)
-5. 💪 Opened PR [#2](https://github.com/imthaghost/merryGoRound/pull/2) in [imthaghost/merryGoRound](https://github.com/imthaghost/merryGoRound)
+1. 🗣 Commented on [#5249](https://github.com/caddyserver/caddy/issues/5249) in [caddyserver/caddy](https://github.com/caddyserver/caddy)
+2. 💪 Opened PR [#1](https://github.com/wEbCoAdEr/phpSalaryPredictionAI/pull/1) in [wEbCoAdEr/phpSalaryPredictionAI](https://github.com/wEbCoAdEr/phpSalaryPredictionAI)
+3. 💪 Opened PR [#10](https://github.com/david3107/graphql-security-labs/pull/10) in [david3107/graphql-security-labs](https://github.com/david3107/graphql-security-labs)
+4. ❌ Closed PR [#2](https://github.com/imthaghost/merryGoRound/pull/2) in [imthaghost/merryGoRound](https://github.com/imthaghost/merryGoRound)
+5. 🗣 Commented on [#2](https://github.com/imthaghost/merryGoRound/issues/2) in [imthaghost/merryGoRound](https://github.com/imthaghost/merryGoRound)
 <!--END_SECTION:activity-->
 
 ## Learning Path
