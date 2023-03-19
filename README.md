@@ -30,11 +30,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#453](https://github.com/hahwul/dalfox/pull/453) in [hahwul/dalfox](https://github.com/hahwul/dalfox)
-2. 🗣 Commented on [#452](https://github.com/hahwul/dalfox/issues/452) in [hahwul/dalfox](https://github.com/hahwul/dalfox)
-3. 🗣 Commented on [#5249](https://github.com/caddyserver/caddy/issues/5249) in [caddyserver/caddy](https://github.com/caddyserver/caddy)
-4. 💪 Opened PR [#1](https://github.com/wEbCoAdEr/phpSalaryPredictionAI/pull/1) in [wEbCoAdEr/phpSalaryPredictionAI](https://github.com/wEbCoAdEr/phpSalaryPredictionAI)
-5. 💪 Opened PR [#10](https://github.com/david3107/graphql-security-labs/pull/10) in [david3107/graphql-security-labs](https://github.com/david3107/graphql-security-labs)
+1. ❌ Closed PR [#1](https://github.com/ArifulProtik/LinkTer-api/pull/1) in [ArifulProtik/LinkTer-api](https://github.com/ArifulProtik/LinkTer-api)
+2. 💪 Opened PR [#1](https://github.com/ArifulProtik/LinkTer-api/pull/1) in [ArifulProtik/LinkTer-api](https://github.com/ArifulProtik/LinkTer-api)
+3. 💪 Opened PR [#453](https://github.com/hahwul/dalfox/pull/453) in [hahwul/dalfox](https://github.com/hahwul/dalfox)
+4. 🗣 Commented on [#452](https://github.com/hahwul/dalfox/issues/452) in [hahwul/dalfox](https://github.com/hahwul/dalfox)
+5. 🗣 Commented on [#5249](https://github.com/caddyserver/caddy/issues/5249) in [caddyserver/caddy](https://github.com/caddyserver/caddy)
 <!--END_SECTION:activity-->
 
 ## Learning Path
