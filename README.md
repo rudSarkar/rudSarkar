@@ -101,3 +101,8 @@
 <!-- 
 <br/>
 <img src="https://activity-graph.herokuapp.com/graph?username=rudSarkar&bg_color=22272e&color=9BE8A8&line=9BE8A8&point=40C363&area=false&hide_border=true" alt="my-github-graph"></img> -->
+
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31d4geu7mtxlaks6uo3ctsxeb5dy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify now playing" />
+</p>
