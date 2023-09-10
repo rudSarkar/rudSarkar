@@ -30,7 +30,7 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/s0md3v/roop/pull/21#issuecomment-1567037769) in [s0md3v/roop](https://github.com/s0md3v/roop)
+1. ❗ Opened issue [#1](https://github.com/pwnwriter/kanha/issues/1) in [pwnwriter/kanha](https://github.com/pwnwriter/kanha)
 2. ❌ Closed PR [#18](https://github.com/s0md3v/roop/pull/18) in [s0md3v/roop](https://github.com/s0md3v/roop)
 3. 💪 Opened PR [#18](https://github.com/s0md3v/roop/pull/18) in [s0md3v/roop](https://github.com/s0md3v/roop)
 4. ❌ Closed PR [#1](https://github.com/ArifulProtik/LinkTer-api/pull/1) in [ArifulProtik/LinkTer-api](https://github.com/ArifulProtik/LinkTer-api)
