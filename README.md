@@ -1,5 +1,5 @@
-<h2>Hi, I'm Rudra 👋 👨‍💻</h2>
-<h3>A undergraduate computer science student, security engineer, Red Team Researcher and life-long learner</h3>
+## Hi, I'm Rudra 👋 👨‍💻
+### A undergraduate computer science student, security engineer, Red Team Researcher and life-long learner
 
 <a href="https://komarev.com/ghpvc/?username=Rajchowdhury420&label=PROFILE+VIEWS" target="blank">
     <img src="https://komarev.com/ghpvc/?username=rudSarkar&label=PROFILE+VIEWS" alt=""/>
