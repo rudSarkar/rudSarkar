@@ -30,9 +30,9 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/pwnwriter/kanha/issues/1) in [pwnwriter/kanha](https://github.com/pwnwriter/kanha)
-2. ❌ Closed PR [#18](https://github.com/s0md3v/roop/pull/18) in [s0md3v/roop](https://github.com/s0md3v/roop)
-3. 💪 Opened PR [#18](https://github.com/s0md3v/roop/pull/18) in [s0md3v/roop](https://github.com/s0md3v/roop)
+1. 🗣 Commented on [#1](https://github.com/pwnwriter/kanha/issues/1#issuecomment-1730310102) in [pwnwriter/kanha](https://github.com/pwnwriter/kanha)
+2. 🗣 Commented on [#2](https://github.com/St3v3nsS/MMSF/issues/2#issuecomment-1728187962) in [St3v3nsS/MMSF](https://github.com/St3v3nsS/MMSF)
+3. ❗ Opened issue [#1](https://github.com/pwnwriter/kanha/issues/1) in [pwnwriter/kanha](https://github.com/pwnwriter/kanha)
 4. ❌ Closed PR [#1](https://github.com/ArifulProtik/LinkTer-api/pull/1) in [ArifulProtik/LinkTer-api](https://github.com/ArifulProtik/LinkTer-api)
 5. 💪 Opened PR [#1](https://github.com/ArifulProtik/LinkTer-api/pull/1) in [ArifulProtik/LinkTer-api](https://github.com/ArifulProtik/LinkTer-api)
 <!--END_SECTION:activity-->
