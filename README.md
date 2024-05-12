@@ -30,11 +30,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/rudSarkar/education_board_result_automation/issues/1) in [rudSarkar/education_board_result_automation](https://github.com/rudSarkar/education_board_result_automation)
-2. ❗ Opened issue [#1](https://github.com/rudSarkar/education_board_result_automation/issues/1) in [rudSarkar/education_board_result_automation](https://github.com/rudSarkar/education_board_result_automation)
-3. ❗ Opened issue [#8973](https://github.com/bagisto/bagisto/issues/8973) in [bagisto/bagisto](https://github.com/bagisto/bagisto)
-4. 🗣 Commented on [#1](https://github.com/pwnwriter/kanha/issues/1#issuecomment-1730310102) in [pwnwriter/kanha](https://github.com/pwnwriter/kanha)
-5. 🗣 Commented on [#2](https://github.com/St3v3nsS/MMSF/issues/2#issuecomment-1728187962) in [St3v3nsS/MMSF](https://github.com/St3v3nsS/MMSF)
+1. 🔒 Closed issue [#2](https://github.com/rudSarkar/education_board_result_automation/issues/2) in [rudSarkar/education_board_result_automation](https://github.com/rudSarkar/education_board_result_automation)
+2. 🎉 Merged PR [#3](https://github.com/rudSarkar/education_board_result_automation/pull/3) in [rudSarkar/education_board_result_automation](https://github.com/rudSarkar/education_board_result_automation)
+3. 💪 Opened PR [#3](https://github.com/rudSarkar/education_board_result_automation/pull/3) in [rudSarkar/education_board_result_automation](https://github.com/rudSarkar/education_board_result_automation)
+4. ❗ Opened issue [#2](https://github.com/rudSarkar/education_board_result_automation/issues/2) in [rudSarkar/education_board_result_automation](https://github.com/rudSarkar/education_board_result_automation)
+5. 🔒 Closed issue [#1](https://github.com/rudSarkar/education_board_result_automation/issues/1) in [rudSarkar/education_board_result_automation](https://github.com/rudSarkar/education_board_result_automation)
 <!--END_SECTION:activity-->
 
 ## Learning Path
